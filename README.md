@@ -32,7 +32,7 @@ com o objetivo de conectar pessoas com orfanatos próximos, facilitando o acesso
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/1-1-Light.png" width="986" >
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/2-2.png" width="986" >
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3-3.png" width="410" >
-   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/4-4.png" width="430" >
+   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/4-4.png" width="415" >
 </p>
 
 ## :computer: Layout Web Tema Dark
