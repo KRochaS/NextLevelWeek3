@@ -39,8 +39,8 @@ com o objetivo de conectar pessoas com orfanatos próximos, facilitando o acesso
 <p align="center">
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/1.png" width="979" >
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/2.png" width="979" >
-  <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3.png" width="425" >
-   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/4.png" width="417" >
+  <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3.png" width="415" >
+   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/4.png" width="410" >
 </p>
 
 ## :iphone: Layout Mobile
