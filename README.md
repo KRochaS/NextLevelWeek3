@@ -31,7 +31,7 @@ com o objetivo de conectar pessoas com orfanatos próximos, facilitando o acesso
 <p align="center">
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/1-1-Light.png" width="986" >
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/2-2.png" width="986" >
-  <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3-3.png" width="416" >
+  <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3-3.png" width="400" >
    <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/4-4.png" width="417" >
 </p>
 
@@ -39,7 +39,7 @@ com o objetivo de conectar pessoas com orfanatos próximos, facilitando o acesso
 <p align="center">
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/1.png" width="979" >
   <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/2.png" width="979" >
-  <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3.png" width="420" >
+  <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/3.png" width="416" >
    <img src="https://github.com/KRochaS/NextLevelWeek3/blob/master/github/4.png" width="417" >
 </p>
 
