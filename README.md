@@ -2,14 +2,17 @@
   <img src="https://raw.githubusercontent.com/KRochaS/NextLevelWeek3/6e52d67f2a91368fc269c5e4d5206d2f347451fb/Happy.svg" width="250" >
 </p>
 
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=ReactJS&message=16.13.1&color=5EA3DE&labelColor=5EA3DE" alt="ReactJS" />
-  <img src="https://img.shields.io/static/v1?label=ReactNative&message=16.13.1&color=5EA3DE&labelColor=5EA3DE" alt="ReactNative" />
-  <img src="https://img.shields.io/static/v1?label=Node&message=12.16.1&color=5EA3DE&labelColor=5EA3DE" alt="Node" />
-   <img src="https://img.shields.io/static/v1?label=Expo&message=39.0.2&color=5EA3DE&labelColor=5EA3DE" alt="Expo" />
+<p align="center">	
+   <img src="https://img.shields.io/badge/-ReactJS-5EA3DE?style=flat&logoColor=white" />
+  
+   <img src="https://img.shields.io/badge/-React Native-5EA3DE?style=flat&logoColor=white" />
+   
+   <img src="https://img.shields.io/badge/-NodeJS-5EA3DE?style=flat&logoColor=white" />
+   
+   <img src="https://img.shields.io/badge/-Expo-5EA3DE?style=flat&logoColor=white" />
+   
+   <img src="https://img.shields.io/badge/-Styled Components-5EA3DE?style=flat&logoColor=white" />
 </p>
-
 
 
 
